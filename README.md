@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A passionate frontend developer from Brazil!</h3>
+<h3 align="center">A (wanna-be) Java developer from Brazil!</h3>
 
 -  I’m currently learning **Java and Python.**
 - I can speak portuguese and english, both fluently.
