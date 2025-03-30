@@ -4,12 +4,10 @@
 
 <p align="left">My name is Carlos, and i am a Back-end developer from Brazil!</p>
 
-## About me
+###
 
-- ✨ Learning since 2024. 
-- 📚 I'm currently learning front-end (angularJs more specifically) and gathering more knowledge to get better at back-end development.
-- 🎯 My goal is: Travel the world and be happy while coding.
-- 🎸 I play guitar! 
+<p align="left">- ✨ Learning since 2024. <br>- 📚 I'm currently learning front-end (angularJs more specifically) and gathering more knowledge to get better at back-end development.<br>- 🎯 My goal is: Travel the world and be happy while coding.<br>- 🎸 I play guitar!</p>
+
 ###
 
 <div align="center">
@@ -47,8 +45,6 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/57/31/8c/57318cd535b1c030d6176315c5503e6b.gif"  />
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosHenri05/CarlosHenri05/output/pacman-contribution-graph-dark.svg">
