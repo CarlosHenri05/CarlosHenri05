@@ -6,7 +6,7 @@
 
 ## About me
 
-- ✨ Creating bugs since 2019
+- ✨ Learning since 2024. 
 - 📚 I'm currently learning front-end (angularJs more specifically) and gathering more knowledge to get better at back-end development.
 - 🎯 My goal is: Travel the world and be happy while coding.
 - 🎸 I play guitar! 
