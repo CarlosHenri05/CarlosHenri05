@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- ✨ Learning since 2024. <br>- 📚 I'm currently learning front-end (angularJs more specifically) and gathering more knowledge to get better at back-end development.<br>- 🎯 My goal is: Travel the world and be happy while coding.<br>- 🎸 I play guitar! <br>- 🇧🇷/🇺🇸 I speak Portuguese and English, both fluently.</p>
+<p align="left">- ✨ Learning since 2024. <br>- 📚 I'm currently learning front-end (Angular more specifically) and gathering more knowledge to get better at back-end development.<br>- 🎯 My goal is: Travel the world and be happy while coding.<br>- 🎸 I play guitar! <br>- 🇧🇷/🇺🇸 I speak Portuguese and English, both fluently.</p>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-profile-orange)](https://leetcode.com/u/DQixZl1bOD/)
 
